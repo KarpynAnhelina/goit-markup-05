@@ -107,7 +107,7 @@ img {
   color: var(--accent-text-color);
   
 }
-.mail-icon,
+.icon-mail,
 .icon-smartphone{
   fill: currentColor;
   margin-right: 10px;

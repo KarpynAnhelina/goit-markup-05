@@ -424,16 +424,6 @@ img {
   flex-basis: calc((100% - 30px * 2) / 3);
 }
 
-/* .portfolio-list .item{
-    margin-right: 30px;
-    margin-bottom: 30px;
-}
-.portfolio-list .item:nth-child(3n){
-margin-right: 0px;
-}
-.portfolio-list .item:nth-last-child(-n+3){
-margin-bottom: 0%;
-}  */
 .about-projects {
   padding: 20px 24px;
   border-left: 1px solid #eeeeee;
@@ -592,6 +582,7 @@ margin-bottom: 0%;
   line-height: 1.88;
   letter-spacing: 0.06em;
   color: var(--white-text-color);
+  cursor: pointer;
 }
  
 
